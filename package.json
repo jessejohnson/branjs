@@ -1,0 +1,17 @@
+{
+  "name": "branjs",
+  "version": "0.0.1",
+  "description": "A small library to generate html elements programatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "markup",
+    "bootstrap",
+    "components"
+  ],
+  "author": "wsgeorge",
+  "license": "MIT"
+}
