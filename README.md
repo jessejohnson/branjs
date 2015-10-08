@@ -38,6 +38,5 @@ you could be typing:
 ```
 var bs = require('bran-bootstrap');
 var page = bs.HTML5Doc("Bootstrap 101 Template");
-var body = page.body;
-body.addH1('Hello, world');
+page.body.addH1('Hello, world');
 ```
